@@ -59,3 +59,18 @@
 
 → [Voltar ao topo](#topo)
 
+# :bulb: Descrição do Projeto:
+
+<h2 style="text-align: center">Ex.Plataforma de entrega de TG</h2>
+Ex. Por um texto falando que é uma aplicação desktop que auxilia o aluno a entregar tal coisa, o professor a ver, corrigir, responder, ver o que foi feito, tem uma outra area de tal professor etc etc etc
+<h3> :dart: Objetivos: </h3>
+
+<ul>
+  <li> Exemplo</li>
+  <li>entender o problem do cliente e dar soluça, aprender java.</li>
+  <li>Aplicar conceitos lógicos aprendidos em problemas reais de programação, facilitando a aprendizagem prática.</li>
+  <li>Aprimorar o raciocínio lógico e analítico, habilidades cruciais em diversas áreas da ciência da computação e outras disciplinas.</li>
+  <li>Resolver problemas complexos, identificando e entendendo padrões numéricos.</li>
+  <li>Criar estruturas de dados e modelar fenômenos matemáticos e lógicos de maneira eficiente.</li>
+</ul>
+
