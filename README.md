@@ -22,11 +22,39 @@
     <tr>
       <td>Product Owner</td>
       <td>Manuela Brito</td>
-      <td><a href="https://github.com/" target="_blank"><img src="" alt="GitHub"></a></td>
+      <td><a href="https://github.com/" target="_blank"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
     </tr>
     <tr>
+      <td>Scrum Master</td>
+      <td>Jhonatan Rossi</td>
+      <td><a href="https://github.com/" target="_blank"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
+    </tr>
+    <tr>
+      <td>Dev Team</td>
+      <td>Elder henrique</td>
+      <td><a href="https://github.com/" target="_blank"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
+    </tr>
+    <tr>
+      <td>Dev Team</td>
+      <td>Giovanna Marques</td>
+      <td><a href="https://github.com/" target="_blank"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
+    </tr>
+    <tr>
+      <td>Dev Team</td>
+      <td>Guilherme Valim</td>
+      <td><a href="https://github.com/" target="_blank"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
+    </tr>
   </tbody>
- 
+    <tr>
+      <td>Dev Team</td>
+      <td>João Pedro</td>
+      <td><a href="https://github.com/" target="_blank"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
+    </tr>
+      <tr>
+      <td>Dev Team</td>
+      <td>Kelvin Diogo</td>
+      <td><a href="https://github.com/" target="_blank"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
+    </tr>
 </table>
 
 → [Voltar ao topo](#topo)
