@@ -22,7 +22,7 @@
     <tr>
       <td>Product Owner</td>
       <td>Manuela Brito</td>
-      <td><a href="https://github.com/" target="_blank"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
+      <td><a href="https://github.com/" target="_blank"><img src="" alt="GitHub"></a></td>
     </tr>
     <tr>
   </tbody>
