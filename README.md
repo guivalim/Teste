@@ -10,3 +10,16 @@
 <span id="Equipe"></span>
 
 ## :busts_in_silhouette: Equipe
+<table>
+  <thead>
+    <tr>
+      <th>Função</th>
+      <th>Nome</th>
+      <th>GitHub</th>
+    </tr>
+  </thead>
+ 
+</table>
+
+→ [Voltar ao topo](#topo)
+
