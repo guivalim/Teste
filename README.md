@@ -3,4 +3,4 @@
 
 # 1ª Sprint - SQUAD TECH
 
-## :mag_right: Índice
+## : Índice
