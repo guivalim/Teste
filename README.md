@@ -74,3 +74,12 @@ Ex. Por um texto falando que é uma aplicação desktop que auxilia o aluno a en
   <li>Criar estruturas de dados e modelar fenômenos matemáticos e lógicos de maneira eficiente.</li>
 </ul>
 
+<h3> 🛠️ Tecnologias Utilizadas: </h3>
+
+<ul>
+  <li>IntelliJ IDEA (programar código, focando na eficiência e produtividade)</li>
+  <li>Git (para controle de versão)</li>
+  <li>GitHub (para armazenamento de códigos e documentação)</li>
+  <li>Discord e WhatsApp (para comunição entre os membros)</li>
+</ul>
+
