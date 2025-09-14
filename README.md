@@ -42,7 +42,7 @@
     <tr>
       <td>Dev Team</td>
       <td>Guilherme Valim</td>
-      <td><a href="https://github.com/" target="_blank"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
+      <td><a href="https://github.com/guivalim"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
     </tr>
   </tbody>
     <tr>
