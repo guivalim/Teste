@@ -4,3 +4,5 @@
 # 1ª Sprint - SQUAD TECH
 
 ## :mag_right: Índice
+
+[Equipe](#Equipe) / [Descrição do Projeto](#Descricao) / [Sobre a Sprint](#Sobre) / [Backlog](#Backlog) / [Backlog da Sprint](#Sprint/) / [Manual do Usuário](#Manual)
