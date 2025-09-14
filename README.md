@@ -27,7 +27,7 @@
     <tr>
       <td>Scrum Master</td>
       <td>Jhonatan Rossi</td>
-      <td><a href="[https://github.com/" target="_blank](https://github.com/JhowRossii)"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
+      <td><a href="https://github.com/JhowRossii"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
     </tr>
     <tr>
       <td>Dev Team</td>
