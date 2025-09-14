@@ -83,3 +83,30 @@ Ex. Por um texto falando que é uma aplicação desktop que auxilia o aluno a en
   <li>Discord e WhatsApp (para comunição entre os membros)</li>
 </ul>
 
+<span id="Sobre">
+
+# :clipboard: Sobre a Sprint
+Aqui colocaremos sobre o que será entregue nessa sprint, podemosfalar sobre os prototipos e etc, falar que foi mais para entender o real probema e dialogar com o cliente sobre suas preferencias
+
+<span id="Backlog"></span>
+
+# 📑 Backlog:
+
+aqui tera o backlog da sprint
+
+→ [Voltar ao topo](#topo)<br/>
+
+# :hourglass_flowing_sand: Backlog da Sprint 1:
+
+aqui teremos a backlog da primeira sprint
+
+→ [Voltar ao topo](#topo)<br/>
+
+# Manual do Usuário:
+
+## :wrench: Como Usar
+<h3>Para garantir o sucesso na utilização de nosso sistema, aqui vai uma lista das tecnologias necessárias para realizar os próximos passos:</h3>
+
+aqui ainda veremos o que será preciso e os passos
+
+
