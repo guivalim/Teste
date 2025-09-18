@@ -175,7 +175,7 @@ Aqui colocaremos sobre o que será entregue nessa sprint, podemosfalar sobre os 
     </tr>
     <tr>
     <td># P06</td>
-      <td>green_circle: Baixa</td>
+      <td>:green_circle: Baixa</td>
       <td>"Como aluno, quero visualizar a aprovação final do meu TG, para confirmar a conclusão do trabalho."</td>
       <td>1 Pontos</td>
       <td>3</td>
