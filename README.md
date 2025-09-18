@@ -149,8 +149,6 @@ Aqui colocaremos sobre o que será entregue nessa sprint, podemosfalar sobre os 
   </tbody>
 </table>
 
-→ [Voltar ao topo](#topo)<br/>
-
 <span id="Sprint"></span>
 
 
