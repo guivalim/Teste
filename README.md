@@ -159,6 +159,27 @@ Aqui colocaremos sobre o que será entregue nessa sprint, podemosfalar sobre os 
       <td>5 Pontos</td>
       <td>3</td>
     </tr>
+    <tr>
+    <td># P03</td>
+      <td>:yellow_circle: Média</td>
+      <td>"Como professor orientador, quero acessar o histórico de versões do TG de cada aluno, para acompanhar a evolução e manter controle das correções."</td>
+      <td>1 Pontos</td>
+      <td>3</td>
+    </tr>
+    <tr>
+    <td># P04</td>
+      <td>:yellow_circle: Média</td>
+      <td>"Como professor orientador, quero registrar a aprovação final de um TG, para encerrar oficialmente a orientação."</td>
+      <td>1 Pontos</td>
+      <td>3</td>
+    </tr>
+    <tr>
+    <td># P06</td>
+      <td>green_circle: Baixa</td>
+      <td>"Como aluno, quero visualizar a aprovação final do meu TG, para confirmar a conclusão do trabalho."</td>
+      <td>1 Pontos</td>
+      <td>3</td>
+    </tr>
   </tbody>
 </table>
 
