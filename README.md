@@ -145,6 +145,20 @@ Aqui colocaremos sobre o que será entregue nessa sprint, podemosfalar sobre os 
       <td>2 Pontos</td>
       <td>2</td>
     </tr>
+    <tr>
+    <td># A02</td>
+      <td>:yellow_circle: Média</td>
+      <td>"Como aluno, quero reenviar novas versões do meu TG, para incorporar os feedbacks e avançar no processo de correção."</td>
+      <td>5 Pontos</td>
+      <td>3</td>
+    </tr>
+    <tr>
+    <td># A05</td>
+      <td>:yellow_circle: Média</td>
+      <td>"Como aluno, quero exportar meu TG no formatoMarkdown (MD), para entregá-lo conforme o padrão exigido pela instituição."</td>
+      <td>5 Pontos</td>
+      <td>3</td>
+    </tr>
   </tbody>
 </table>
 
