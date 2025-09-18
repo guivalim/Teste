@@ -92,7 +92,67 @@ Aqui colocaremos sobre o que será entregue nessa sprint, podemosfalar sobre os 
 
 # 📑 Backlog:
 
-aqui tera o backlog da sprint
+<table border="1">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Prioridade</th>
+      <th>User Story</th>
+      <th>Estimativa</th>
+      <th>Sprint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td># A01</td>
+      <td>:red_circle: Alta</td>
+      <td>"Como aluno, quero submeter meu Trabalho de Graduação na plataforma, para receber feedback do professor orientador e aprimorar o trabalho."</td>
+      <td>5 Pontos</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td># U01</td>
+      <td>:red_circle: Alta</td>
+      <td>:green_circle: Baixa</td>
+      <td>"Como professor de TG, professor orientador e aluno, quero receber notificações sobre prazos, envios e feedbacks, para não perder nenhuma atualização importante."</td>
+      <td>5 Pontos</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td># P01</td>
+      <td>:red_circle: Alta</td>
+      <td>"Como professor orientador, quero acessar os TGs enviados pelos meus alunos, para realizar correções de forma centralizada."</td>
+      <td>1 Pontos</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td># P02</td>
+      <td>:red_circle: Alta</td>
+      <td>"a Como professor orientador, quero disponibilizar feedbacks e arquivos corrigidos na plataforma, para orientar os alunos com clareza."</td>
+      <td>2 Pontos</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td># TG01</td>
+      <td>:red_circle: Alta</td>
+      <td>"Como professor de TG, quero visualizar quais alunos estão vinculados a quais professores orientadores, para manter controle do andamento dos trabalhos."</td>
+      <td>2 Pontos</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td># A03</td>
+      <td>:yellow_circle: Média</td>
+      <td>"Como aluno, quero consultar as versões anteriores do meu TG com os comentários do professor, para acompanhar a evolução e evitar repetir erros."</td>
+      <td>2 Pontos</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+
+→ [Voltar ao topo](#topo)<br/>
+
+<span id="Sprint"></span>
+
 
 → [Voltar ao topo](#topo)<br/>
 
