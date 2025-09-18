@@ -113,7 +113,6 @@ Aqui colocaremos sobre o que será entregue nessa sprint, podemosfalar sobre os 
     <tr>
       <td># U01</td>
       <td>:red_circle: Alta</td>
-      <td>:green_circle: Baixa</td>
       <td>"Como professor de TG, professor orientador e aluno, quero receber notificações sobre prazos, envios e feedbacks, para não perder nenhuma atualização importante."</td>
       <td>5 Pontos</td>
       <td>2</td>
