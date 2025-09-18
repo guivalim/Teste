@@ -127,7 +127,7 @@ Aqui colocaremos sobre o que será entregue nessa sprint, podemosfalar sobre os 
     <tr>
       <td># P02</td>
       <td>:red_circle: Alta</td>
-      <td>"a Como professor orientador, quero disponibilizar feedbacks e arquivos corrigidos na plataforma, para orientar os alunos com clareza."</td>
+      <td>"Como professor orientador, quero disponibilizar feedbacks e arquivos corrigidos na plataforma, para orientar os alunos com clareza."</td>
       <td>2 Pontos</td>
       <td>2</td>
     </tr>
@@ -155,7 +155,7 @@ Aqui colocaremos sobre o que será entregue nessa sprint, podemosfalar sobre os 
     <tr>
     <td># A05</td>
       <td>:yellow_circle: Média</td>
-      <td>"Como aluno, quero exportar meu TG no formatoMarkdown (MD), para entregá-lo conforme o padrão exigido pela instituição."</td>
+      <td>"Como aluno, quero exportar meu TG no formato Markdown (MD), para entregá-lo conforme o padrão exigido pela instituição."</td>
       <td>5 Pontos</td>
       <td>3</td>
     </tr>
@@ -174,7 +174,7 @@ Aqui colocaremos sobre o que será entregue nessa sprint, podemosfalar sobre os 
       <td>3</td>
     </tr>
     <tr>
-    <td># P06</td>
+    <td># A06</td>
       <td>:green_circle: Baixa</td>
       <td>"Como aluno, quero visualizar a aprovação final do meu TG, para confirmar a conclusão do trabalho."</td>
       <td>1 Pontos</td>
