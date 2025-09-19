@@ -79,7 +79,7 @@ Visando solucionar o problema que foi nos passado, em relação a dificuldade da
   <li>IntelliJ IDEA (programar código, focando na eficiência e produtividade)</li>
   <li>SceneBuilder (para criação das telas da aplicação)</li>
   <li>Figma (para prototipação das telas)</li>
-  <li>jira (para o planejamento e acompanhamento das taredas do projeto)</li>
+  <li>Jira (para o planejamento e acompanhamento das taredas do projeto)</li>
   <li>Git (para controle de versão)</li>
   <li>GitHub (para armazenamento de códigos e documentação)</li>
   <li>brModelo (para modelagem do banco de dados)</li>
