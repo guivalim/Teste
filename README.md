@@ -201,11 +201,15 @@ Nessa primeira sprint, após atendimentos, reuniões e perguntas feitas ao clien
 
 → [Voltar ao topo](#topo)<br/>
 
+<span id="Sprint"></span>
+
 # :hourglass_flowing_sand: Backlog da Sprint 1:
 
 aqui teremos a backlog da primeira sprint
 
 → [Voltar ao topo](#topo)<br/>
+
+<span id="Manual"></span>
 
 # Manual do Usuário:
 
