@@ -32,12 +32,12 @@
     <tr>
       <td>Dev Team</td>
       <td>Elder henrique</td>
-      <td><a href="https://github.com/" target="_blank"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
+      <td><a href="https://github.com/3usder" target="_blank"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
     </tr>
     <tr>
       <td>Dev Team</td>
       <td>Giovanna Marques</td>
-      <td><a href="https://github.com/" target="_blank"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
+      <td><a href="https://github.com/Markeis24" target="_blank"><img src="https://github.com/SquadTech-API/API-1/blob/03776e842b61a213b64d769a97f280797670045b/github.svg" alt="GitHub"></a></td>
     </tr>
     <tr>
       <td>Dev Team</td>
