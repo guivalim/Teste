@@ -67,11 +67,10 @@ Visando solucionar o problema que foi nos passado, em relação a dificuldade da
 
 <ul>
   <li> Exemplo</li>
-  <li>entender o problem do cliente e dar soluça, aprender java.</li>
-  <li>Aplicar conceitos lógicos aprendidos em problemas reais de programação, facilitando a aprendizagem prática.</li>
-  <li>Aprimorar o raciocínio lógico e analítico, habilidades cruciais em diversas áreas da ciência da computação e outras disciplinas.</li>
-  <li>Resolver problemas complexos, identificando e entendendo padrões numéricos.</li>
-  <li>Criar estruturas de dados e modelar fenômenos matemáticos e lógicos de maneira eficiente.</li>
+  <li>Criçao da plataforma visando a desenvolvimento da aplicação trabalhando em equipe.</li>
+  <li>Aplicar de forma pratica conceitos aprendidos na lingaugem Java.</li>
+  <li>Fazer a modelagem, criação e utilização do banco de dados para armezenamento.</li>
+  <li>Vivenciar uma situação prática de aprendizado sobre atender um cliente e entender suas necessidades.</li>
 </ul>
 
 <h3> 🛠️ Tecnologias Utilizadas: </h3>
