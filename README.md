@@ -118,6 +118,7 @@ Aqui colocaremos sobre o que será entregue nessa sprint, podemosfalar sobre os 
       <td>2</td>
     </tr>
     <tr>
+    <tr>
       <td># P01</td>
       <td>:red_circle: Alta</td>
       <td>"Como professor orientador, quero acessar os TGs enviados pelos meus alunos, para realizar correções de forma centralizada."</td>
@@ -171,6 +172,12 @@ Aqui colocaremos sobre o que será entregue nessa sprint, podemosfalar sobre os 
       <td>:yellow_circle: Média</td>
       <td>"Como professor orientador, quero registrar a aprovação final de um TG, para encerrar oficialmente a orientação."</td>
       <td>1 Pontos</td>
+      <td>3</td>
+    </tr>
+    <td># U02</td>
+      <td>:yellow_circle: Alta</td>
+      <td>"Como aluno/professor orientador/professor de TG, quero manter minhas informações privadas, para manter a privacidade e evitar plágios."</td>
+      <td>2 Pontos</td>
       <td>3</td>
     </tr>
     <tr>
