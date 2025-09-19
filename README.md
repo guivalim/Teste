@@ -78,15 +78,20 @@ Visando solucionar o problema que foi nos passado, em relação a dificuldade da
 
 <ul>
   <li>IntelliJ IDEA (programar código, focando na eficiência e produtividade)</li>
+  <li>SceneBuilder (para criação das telas da aplicação)</li>
+  <li>Figma (para prototipação das telas)</li>
+  <li>jira (para o planejamento e acompanhamento das taredas do projeto)</li>
   <li>Git (para controle de versão)</li>
   <li>GitHub (para armazenamento de códigos e documentação)</li>
+  <li>brModelo (para modelagem do banco de dados)</li>
+  <li>MySQL Workbench (criação e gerenciamento do banco de dados)</li>
   <li>Discord e WhatsApp (para comunição entre os membros)</li>
 </ul>
 
 <span id="Sobre">
 
 # :clipboard: Sobre a Sprint
-Aqui colocaremos sobre o que será entregue nessa sprint, podemosfalar sobre os prototipos e etc, falar que foi mais para entender o real probema e dialogar com o cliente sobre suas preferencias
+Nessa primeira sprint, após atendimentos, reuniões e perguntas feitas ao cliente para entendermos melhor e priorizar suas necessidades, ficou acertado a ser entregue protótipos de como serão as telas da aplicação, para que o própio consiga visualizar algo concreto de como será a aplicação pratica do projeto, e possa analisar sobre o que será modificado, adicionado, ou removido.
 
 <span id="Backlog"></span>
 
