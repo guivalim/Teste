@@ -66,7 +66,6 @@ Visando solucionar o problema que foi nos passado, em relação a dificuldade da
 <h3> :dart: Objetivos: </h3>
 
 <ul>
-  <li> Exemplo</li>
   <li>Criçao da plataforma visando a desenvolvimento da aplicação trabalhando em equipe.</li>
   <li>Aplicar de forma pratica conceitos aprendidos na lingaugem Java.</li>
   <li>Fazer a modelagem, criação e utilização do banco de dados para armezenamento.</li>
