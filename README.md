@@ -61,8 +61,8 @@
 
 # :bulb: Descrição do Projeto:
 
-<h2 style="text-align: center">Ex.Plataforma de entrega de TG</h2>
-Ex. Por um texto falando que é uma aplicação desktop que auxilia o aluno a entregar tal coisa, o professor a ver, corrigir, responder, ver o que foi feito, tem uma outra area de tal professor etc etc etc
+<h2 style="text-align: center">Plataforma para entrega do TG</h2>
+Visando solucionar o problema que foi nos passado, em relação a dificuldade das entregas do TG por parte dos alunos, a dificuldade do professor em poder ver e corrigir todas essas tarefas de forma  acertiva para dar feedbacks aos alunos, desenvolvemos a BlueTech, que é uma plataforma desktop no qual todo esse processo é facilitado e muito bem organizado, para que ambos usuarios façam dessa interação algo mais fluido e seguro.
 <h3> :dart: Objetivos: </h3>
 
 <ul>
