@@ -84,12 +84,7 @@ Visto isso, a plataforma BlueTech busca resolver esses pontos citados  de uma fo
 
 → [Voltar ao topo](#topo)<br/>
 
-<span id="Sobre">
-
-# :clipboard: Sobre a Sprint
-Nessa primeira sprint, após atendimentos, reuniões e perguntas feitas ao cliente para entendermos melhor e priorizar suas necessidades, ficou acertado a ser entregue protótipos de como serão as telas da aplicação, para que o própio consiga visualizar algo concreto de como será a aplicação pratica do projeto, e possa analisar sobre o que será modificado, adicionado, ou removido.
-
-<span id="Backlog"></span>
+<span id= "Backlog"></span>
 
 # 📑 Backlog:
 
@@ -191,10 +186,17 @@ Nessa primeira sprint, após atendimentos, reuniões e perguntas feitas ao clien
   </tbody>
 </table>
 
-<span id="Sprint"></span>
 
 
 → [Voltar ao topo](#topo)<br/>
+
+<span id="Sobre"></span>
+
+# :clipboard: Sobre a Sprint
+Nessa primeira sprint, após atendimentos, reuniões e perguntas feitas ao cliente para entendermos melhor e priorizar suas necessidades, ficou acertado a ser entregue protótipos de como serão as telas da aplicação, para que o própio consiga visualizar algo concreto de como será a aplicação pratica do projeto, e possa analisar sobre o que será modificado, adicionado, ou removido.
+
+→ [Voltar ao topo](#topo)<br/>
+
 
 <span id="Sprint"></span>
 
