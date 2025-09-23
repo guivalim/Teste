@@ -77,16 +77,8 @@ Visto isso, a plataforma BlueTech busca resolver esses pontos citados  de uma fo
 
 
 <h3> 🛠️ Tecnologias Utilizadas: </h3>
-
-<li>
-  <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true">
-  <path fill="none" stroke="currentColor" stroke-width="1.5" d="M6 17h9a3 3 0 0 0 0-6H6v6z"/>
-  <path fill="none" stroke="currentColor" stroke-width="1.5" d="M8 6c1.5 1 2 2 2 3"/>
-  <path fill="none" stroke="currentColor" stroke-width="1.2" d="M16 6c1.5 1 2 2 2 3"/>
-  <rect x="4" y="11" width="12" height="6" rx="1" fill="none" stroke="currentColor" stroke-width="1.2"/>
-</svg>
-  Java
-</li>
+<ul>
+  <li>Java</li>
   <li>Java FX</li>
   <li>IntelliJ IDEA (programar código, focando na eficiência e produtividade)</li>
   <li>SceneBuilder (para criação das telas da aplicação)</li>
