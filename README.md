@@ -85,7 +85,6 @@ Visto isso, a plataforma BlueTech busca resolver esses pontos citados  de uma fo
   <path fill="none" stroke="currentColor" stroke-width="1.2" d="M16 6c1.5 1 2 2 2 3"/>
   <rect x="4" y="11" width="12" height="6" rx="1" fill="none" stroke="currentColor" stroke-width="1.2"/>
 </svg>
->
   Java
 </li>
   <li>Java FX</li>
