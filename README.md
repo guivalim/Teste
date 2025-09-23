@@ -63,19 +63,14 @@
 # :bulb: Descrição do Projeto:
 
 <h2 style="text-align: center">Plataforma para entrega do TG</h2>
-Visando solucionar o problema que foi nos passado, em relação a dificuldade das entregas do TG por parte dos alunos, a dificuldade do professor em poder ver e corrigir todas essas tarefas de forma  acertiva para dar feedbacks aos alunos, desenvolvemos a BlueTech, que é uma plataforma desktop no qual todo esse processo é facilitado e muito bem organizado, para que ambos usuarios façam dessa interação algo mais fluido e seguro.
-<h3> :dart: Objetivos: </h3>
+A ideia primordial do projeto é sanar as dificuldades relatadas pelo cliente no processo de envio, correção e feedback dos trabalhos de graduação(TG) da Fatec. Após estudos e análises dos documentos que nos foram passados, e após reuniões e conversas com o cliente, entedemos os pontos chaves da situação e entendemos o que precisava ser solucionado. Existe dificuldade da parte dos professores em manter organizado e fazer o controle de tudo que já foi corrigido e também do que terá que ser corrigido, pois até então as atividades que ele já visualizou não ficam salvas após dar o feedback, logo ele não consegue ver o que já foi feito e qual orientação ele ja deu ao aluno. Também foi relatado problema na forma no qual o professor é notificado sobre envios de novas atualizações, sobre quando o aluno envia novos arquivos a ele, que de certa forma esses avisos não são acertivos, fazendo com que mensagens se percam pelo caminho. Da parte do aluno, o desafio desse dialogo com o professor é o tempo, isso devido ainda ao professor não ser avisado sobre o que foi enviado de forma correta, o aluno tende a esperar mais que o necessário para ter a devolutiva, o que atrapalha bastante pois existem prazos para essas atividades. A forma de envio é outro ponto a ser visto pois os alunos tem dificuldade em relação ao formato do arquivo no qual o arquivo final da TG deve ser enviada, um arquivo MD, tecnologia que nem todos tem conhecimento. E temos também os professores das disciplinas do trabalho de graduação, que precisam poder ver quais professores orientam quais alunos e também ter acesso aos portifólios já finalizados.
+Visto isso, a plataforma BlueTech busca resolver esses pontos citados  de uma forma prática e segura. Os professores orientadores teram acesso a lista dos alunos que eles própios administram, podendo aplicar filtros para buscar algo ou alguém em específico, poderam ver quais alunos enviaram algo para corrigir, e quando abrir a aba de cada aluno, poderá ver com detalhes do que já foi enviado e do que ele própio deu de devolutiva. As notificações para todas as partes seram bem definidas para que sejá garantido que ambos tenham ciência de envios feitos, e também será mostrado ao professor à quanto tempo o já está esperando a resposta, para que ele possa ter controle do tempo e ver as prioridades. O professor da disciplina terá listado quais professores estão responsáveis por quais alunos e terão acesso ao documento final. E para o aluno, não precisará se preocupar em transformar o arquivo em MD, a plataforma fará isso. E com as melhoras na parte do professor orientador, os prazos das respostas para o aluno se torna melhor, e com tudo isso o processo como um todo se torna mais eficiente.
 
-<ul>
-  <li>Criçao da plataforma visando a desenvolvimento da aplicação trabalhando em equipe.</li>
-  <li>Aplicar de forma pratica conceitos aprendidos na lingaugem Java.</li>
-  <li>Fazer a modelagem, criação e utilização do banco de dados para armezenamento.</li>
-  <li>Vivenciar uma situação prática de aprendizado sobre atender um cliente e entender suas necessidades.</li>
-</ul>
 
 <h3> 🛠️ Tecnologias Utilizadas: </h3>
 
 <ul>
+  <li>Java e JavaFX</li>
   <li>IntelliJ IDEA (programar código, focando na eficiência e produtividade)</li>
   <li>SceneBuilder (para criação das telas da aplicação)</li>
   <li>Figma (para prototipação das telas)</li>
