@@ -79,7 +79,8 @@ Visto isso, a plataforma BlueTech busca resolver esses pontos citados  de uma fo
 <h3> 🛠️ Tecnologias Utilizadas: </h3>
 
 <ul>
-  <li>Java e JavaFX</li>
+  <li>Java</li>
+  <li>Java FX</li>
   <li>IntelliJ IDEA (programar código, focando na eficiência e produtividade)</li>
   <li>SceneBuilder (para criação das telas da aplicação)</li>
   <li>Figma (para prototipação das telas)</li>
