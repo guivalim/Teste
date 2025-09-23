@@ -63,7 +63,9 @@
 # :bulb: Descrição do Projeto:
 
 <h2 style="text-align: center">Plataforma para entrega do TG</h2>
+<p align="justify">
 A ideia primordial do projeto é sanar as dificuldades relatadas pelo cliente no processo de envio, correção e feedback dos trabalhos de graduação (TG) da Fatec. Após estudos e análises dos documentos que nos foram passados, e após reuniões e conversas com o cliente, entedemos os pontos chaves da situação e entendemos o que precisava ser solucionado.
+</p>
 
 <details>
   <summary><strong>📖 Clique para ler a descrição completa</strong></summary><br>
