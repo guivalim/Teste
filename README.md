@@ -62,7 +62,7 @@
 
 # :bulb: Descrição do Projeto:
 
-<h2 style="text-align: center">BlueTech</h2>
+<h2 style="text-align: center">BlueTech- Plataforma para entrega dos TG</h2>
 
 <p style="text-align: justify;">
   O projeto busca solucionar as dificuldades no processo de envio, correção e feedback dos Trabalhos de Graduação (TG) da Fatec.
