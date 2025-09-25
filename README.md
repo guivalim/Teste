@@ -86,7 +86,7 @@
   Com isso, todo o processo se torna mais <b>eficiente, organizado e seguro</b>, beneficiando alunos e professores.</n>
 </p>
 
-
+<span id="tecnologias"></span>
 
 <h3> 🛠️ Tecnologias Utilizadas: </h3>
 <ul>
