@@ -93,14 +93,14 @@
 <ul>
   <li>Java</li>
   <li>Java FX</li>
-  <li>IntelliJ IDEA (programar código, focando na eficiência e produtividade)</li>
   <li>SceneBuilder (para criação das telas da aplicação)</li>
-  <li>Figma (para prototipação das telas)</li>
-  <li>Jira (para o planejamento e acompanhamento das taredas do projeto)</li>
-  <li>Git (para controle de versão)</li>
-  <li>GitHub (para armazenamento de códigos e documentação)</li>
+  <li>IntelliJ IDEA (programar código, focando na eficiência e produtividade)</li>
   <li>brModelo (para modelagem do banco de dados)</li>
   <li>MySQL Workbench (criação e gerenciamento do banco de dados)</li>
+  <li>Figma (para prototipação das telas)</li>
+  <li>Git (para controle de versão)</li>
+  <li>GitHub (para armazenamento de códigos e documentação)</li>
+  <li>Jira (para o planejamento e acompanhamento das taredas do projeto)</li>
   <li>Discord e WhatsApp (para comunição entre os membros)</li>
 </ul>
 
