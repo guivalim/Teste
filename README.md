@@ -64,11 +64,8 @@
 
 <h2 style="text-align: center">Plataforma para entrega do TG</h2>
 
-<p>
+<p style="text-align: justify;">
   O projeto busca solucionar as dificuldades no processo de envio, correção e feedback dos Trabalhos de Graduação (TG) da Fatec.
-</p>
-
-<p>
   Atualmente, professores têm problemas para organizar correções, acompanhar orientações já dadas e receber notificações claras sobre novos envios. 
   Isso gera atrasos e perda de prazos para os alunos. Além disso, o formato exigido (Markdown) dificulta o envio para quem não domina a tecnologia, 
   e os professores das disciplinas precisam de mais controle sobre quais orientadores acompanham quais alunos.
