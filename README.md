@@ -111,14 +111,14 @@ Visto isso, a plataforma BlueTech busca resolver esses pontos citados  de uma fo
     <tr>
       <td># A01</td>
       <td>:red_circle: Alta</td>
-      <td>"Como aluno, quero submeter meu Trabalho de Graduação na plataforma, para receber feedback do professor orientador e aprimorar o trabalho."</td>
+      <td>"Como aluno, quero enviar uma seção do Trabalho de Graduação, para receber feedback do professor orientador e aprimorar o trabalho."</td>
       <td>5 Pontos</td>
       <td>2</td>
     </tr>
     <tr>
       <td># U01</td>
       <td>:red_circle: Alta</td>
-      <td>"Como professor de TG, professor orientador e aluno, quero receber notificações sobre prazos, envios e feedbacks, para não perder nenhuma atualização importante."</td>
+      <td>"Como professor de TG, professor orientador e aluno, quero receber notificações sobre prazos, envios e feedbacks, para não perder nenhuma atualização importante sobre a seção de TG, e obter controle do tempo limite para realizar uma correção/revisão."</td>
       <td>5 Pontos</td>
       <td>2</td>
     </tr>
@@ -126,14 +126,14 @@ Visto isso, a plataforma BlueTech busca resolver esses pontos citados  de uma fo
     <tr>
       <td># P01</td>
       <td>:red_circle: Alta</td>
-      <td>"Como professor orientador, quero acessar os TGs enviados pelos meus alunos, para realizar correções de forma centralizada."</td>
-      <td>1 Pontos</td>
+      <td>"Como professor orientador, quero acessar as seções de TGs enviados pelos meus alunos, para realizar revisões e correções de forma organizada e prática."</td>
+      <td>1 Ponto</td>
       <td>2</td>
     </tr>
     <tr>
       <td># P02</td>
       <td>:red_circle: Alta</td>
-      <td>"Como professor orientador, quero disponibilizar feedbacks e arquivos corrigidos na plataforma, para orientar os alunos com clareza."</td>
+      <td>"Como professor orientador, quero disponibilizar feedbacks e seções corrigidas, para ajudar na construção do trabalho de graduação."</td>
       <td>2 Pontos</td>
       <td>2</td>
     </tr>
@@ -154,7 +154,7 @@ Visto isso, a plataforma BlueTech busca resolver esses pontos citados  de uma fo
     <tr>
     <td># A02</td>
       <td>:yellow_circle: Média</td>
-      <td>"Como aluno, quero reenviar novas versões do meu TG, para incorporar os feedbacks e avançar no processo de correção."</td>
+      <td>"Como aluno, quero reenviar novas versões do meu TG, para incorporar os feedbacks e avançar no processo de correção. "</td>
       <td>5 Pontos</td>
       <td>3</td>
     </tr>
@@ -169,27 +169,27 @@ Visto isso, a plataforma BlueTech busca resolver esses pontos citados  de uma fo
     <td># P03</td>
       <td>:yellow_circle: Média</td>
       <td>"Como professor orientador, quero acessar o histórico de versões do TG de cada aluno, para acompanhar a evolução e manter controle das correções."</td>
-      <td>1 Pontos</td>
+      <td>1 Ponto</td>
       <td>3</td>
     </tr>
     <tr>
     <td># P04</td>
       <td>:yellow_circle: Média</td>
       <td>"Como professor orientador, quero registrar a aprovação final de um TG, para encerrar oficialmente a orientação."</td>
-      <td>1 Pontos</td>
+      <td>1 Ponto</td>
       <td>3</td>
     </tr>
     <td># U02</td>
       <td>:yellow_circle: Média</td>
-      <td>"Como aluno/professor orientador/professor de TG, quero manter minhas informações privadas, para manter a privacidade e evitar plágios."</td>
+      <td>"Como aluno/professor orientador/professor de TG, quero manter minhas informações privadas, para manter o sigilo."</td>
       <td>2 Pontos</td>
       <td>3</td>
     </tr>
     <tr>
     <td># A06</td>
       <td>:green_circle: Baixa</td>
-      <td>"Como aluno, quero visualizar a aprovação final do meu TG, para confirmar a conclusão do trabalho."</td>
-      <td>1 Pontos</td>
+      <td>"Como aluno, quero visualizar a aprovação final do meu TG, para iniciar o planejamento da defesa do meu TG."</td>
+      <td>1 Ponto</td>
       <td>3</td>
     </tr>
   </tbody>
