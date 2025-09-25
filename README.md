@@ -101,7 +101,7 @@
   <li>Git (para controle de versão)</li>
   <li>GitHub (para armazenamento de códigos e documentação)</li>
   <li>Jira (para o planejamento e acompanhamento das taredas do projeto)</li>
-  <li>Discord e WhatsApp (para comunição entre os membros)</li>
+  <li>WhatsApp e Microsoft Teams(para comunição entre os membros)</li>
 </ul>
 
 → [Voltar ao topo](#topo)<br/>
