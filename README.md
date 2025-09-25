@@ -86,7 +86,7 @@
 </ul>
 
 <p>
-  Com isso, todo o processo se torna mais <b>eficiente, organizado e seguro</b>, beneficiando alunos e professores.
+  Com isso, todo o processo se torna mais <b>eficiente, organizado e seguro</b>, beneficiando alunos e professores.</n>
 </p>
 
 
