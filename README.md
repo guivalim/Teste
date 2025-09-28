@@ -1,7 +1,11 @@
 <br id="topo">
 <h1 style="text-align: center"> FATEC Profº Jessen Vidal, SJC - 2º Semestre BANCO DE DADOS (2025)</h1>
 
-# 1ª Sprint - SQUAD TECH
+## SQUAD TECH
+
+<p align="center">
+      <img src="https://github.com/SquadTech-API/API-2/blob/02af386709ba232f73ff2a5dbb3dfd6cd177b871/assets/images/logoSquad.jpg" alt="logo da Squad Tech" width="300">
+</p>
 
 ## :mag_right: Índice
 
@@ -60,9 +64,16 @@
 
 <span id="Descricao"></span>
 
-# :bulb: Descrição do Projeto:
+## 🏅 Desafio <a id="desafio"></a>
+O processo atual de envio e correção das seções do TG é feito por e-mail e MS Teams, o que gera atrasos, perda de mensagens e dificuldade em manter histórico. Além disso, os alunos têm problemas para gerar o arquivo final em formato MD e os professores de TG não conseguem acompanhar facilmente o andamento dos Portfólios.
+
+## 🏅 Solução <a id="solucao"></a>
 
 <h2 style="text-align: center">BlueTech- Plataforma para entrega dos TG</h2>
+
+<p align="center">
+      <img src="https://github.com/SquadTech-API/API-2/blob/606dd010cf0fe5a022d75327195e503cf2653d7d/assets/images/blueTechNomeLogo.jpg" alt="logo da Squad Tech" width="300">
+</p>
 
 <p style="text-align: justify;">
   O projeto busca solucionar as dificuldades no processo de envio, correção e feedback dos Trabalhos de Graduação (TG) da Fatec.
@@ -72,7 +83,9 @@
 </p>
 
 <p>
+  
   A <b>plataforma BlueTech</b> centraliza e organiza esse fluxo:
+  
 </p>
 
 <ul>
@@ -86,29 +99,9 @@
   Com isso, todo o processo se torna mais <b>eficiente, organizado e seguro</b>, beneficiando alunos e professores.</n>
 </p>
 
-
-
-
-<h3> 🛠️ Tecnologias Utilizadas: </h3>
-<ul>
-  <li>Java</li>
-  <li>Java FX</li>
-  <li>SceneBuilder (para criação das telas da aplicação)</li>
-  <li>IntelliJ IDEA (programar código, focando na eficiência e produtividade)</li>
-  <li>brModelo (para modelagem do banco de dados)</li>
-  <li>MySQL Workbench (criação e gerenciamento do banco de dados)</li>
-  <li>Figma (para prototipação das telas)</li>
-  <li>Git (para controle de versão)</li>
-  <li>GitHub (para armazenamento de códigos e documentação)</li>
-  <li>Jira (para o planejamento e acompanhamento das taredas do projeto)</li>
-  <li>WhatsApp e Microsoft Teams(para comunição entre os membros)</li>
-</ul>
-
-→ [Voltar ao topo](#topo)<br/>
-
 <span id= "Backlog"></span>
 
-# 📑 Backlog:
+# 📑 Backlog do Produto:
 
 <table border="1">
   <thead>
@@ -208,35 +201,234 @@
   </tbody>
 </table>
 
-
-
 → [Voltar ao topo](#topo)<br/>
 
 <span id="Sobre"></span>
 
 # :clipboard: Sobre a Sprint
-Nessa primeira sprint, após atendimentos, reuniões e perguntas feitas ao cliente para entendermos melhor e priorizar suas necessidades, ficou acertado a ser entregue protótipos de como serão as telas da aplicação, para que o própio consiga visualizar algo concreto de como será a aplicação pratica do projeto, e possa analisar sobre o que será modificado, adicionado, ou removido.
+Nessa primeira sprint, após atendimentos, reuniões e perguntas feitas ao cliente para entendermos melhor e priorizar suas necessidades, ficou acertado a ser entregue protótipos de como serão as telas da aplicação, para que o própio consiga visualizar algo concreto de como será a aplicação pratica do projeto, e possa analisar sobre o que será modificado, adicionado, ou removido. E tambem a entrega da modelagem
+do banco de dados.
 
-→ [Voltar ao topo](#topo)<br/>
 
+## 📅 Cronograma de Sprints <a id="sprint"></a>
+
+| Sprint          |    Período    | Documentação                                     | 
+| --------------- | :-----------: | ------------------------------------------------ |
+| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](https://github.com/SquadTech-API/API-2/tree/main/assets) |
+| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](assets) |
+| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](assets) |
 
 <span id="Sprint"></span>
 
 # :hourglass_flowing_sand: Backlog da Sprint 1:
 
-aqui teremos a backlog da primeira sprint
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>PT.P01</td>
+      <td>Prototipagem da tela da visualização do aluno, envio e escrita da seção de TG.</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>PT.P02</td>
+      <td>Prototipagem da tela de visualização do professor orientador, realização de revisão e correção.</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>PT.TG01</td>
+      <td>Prototipagem de tela de visualização do professor orientador, disponibilização de feedbacks e seções corrigidas.</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>PT.TG02</td>
+      <td>Prototipagem de tela de visualização do professor de TG, aluno e professor orientador correspondente.</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>PT.A01.2</td>
+      <td>Prototipagem da tela de login, acesso dos alunos e professores.</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>PT.A02.3</td>
+      <td>Prototipagem da tela de visualização do aluno, seções de TG corrigidos.</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+
+## Burndown 🔥
+
+<details>
+     
+<summary>Sprint 1</summary>
+
+![Sprint 1 (3)](https://github.com/SquadTech-API/API-2/blob/c211892a22cc2259d2dbb95c6e256532c53becbe/assets/images/burndown1SPRINT.png)
+
+     
+</details>
+
+</details>
+
+<span id="docs">
 
 → [Voltar ao topo](#topo)<br/>
+
+  ## 🛠️ Tecnologias Utilizadas: </h3>
+
+   <img src="https://github.com/SquadTech-API/API-2/blob/25fa2b0fcb94d73287e05a3f6d59bcc05a0ff390/assets/images/tecnologias.png" alt="tecnologias Utilizadas" >
+  
+- **💻Programação e Desenvolvimento**  
+  - Java  
+  - JavaFX  
+  - IntelliJ IDEA  
+
+- **💾Modelagem e Banco de Dados**  
+  - brModelo (modelagem conceitual do banco de dados)  
+  - MySQL Workbench (criação e gerenciamento do banco de dados)  
+
+- **💻Prototipação de Telas**  
+  - Figma  
+  - SceneBuilder  
+
+- **:octocat:Controle de Versão e Colaboração**  
+  - Git  
+  - GitHub  
+
+- **📉Gestão de Projeto**  
+  - Jira  
+
+- **📞Comunicação**  
+  - WhatsApp  
+  - Microsoft Teams  
+
+
+→ [Voltar ao topo](#topo)<br/>
+
+## 📂 Estrutura do Projeto
+
+<details>
+<summary><strong> BlueTech </strong></summary>
+
+O projeto **Bluetech** foi organizado seguindo boas práticas de desenvolvimento em Java, com a convenção de pacotes iniciando por `br.com.squadtech`.
+
+---
+
+### 📁 Código-fonte (`src/main/java/br/com/squadtech/bluetech`)
+
+```
+├── config/         # Configurações do projeto (ex: conexão com banco de dados, constantes globais)
+├── controller/     # Controladores responsáveis por tratar eventos e lógica entre View e Model
+├── dao/            # Data Access Object (operações de persistência e acesso ao banco)
+├── model/          # Classes de modelo (representação das entidades do sistema)
+├── nav/            # Navegação entre telas da aplicação (controle de rotas no JavaFX)
+├── service/        # Regras de negócio e serviços do sistema
+├── view/           # Camada de apresentação integrada ao JavaFX
+└── App.java        # Classe principal que inicia a aplicação
+```
+
+---
+
+### 📁 Recursos (`src/main/resources`)
+
+```
+├── fxml/
+│   ├── aluno/                  # Telas relacionadas ao aluno
+│   ├── login/                  # Telas de autenticação e login
+│   ├── professorOrientador/    # Telas específicas para o professor orientador
+│   └── professorTG/            # Telas relacionadas ao professor de TG
+│
+└── images/                     # Imagens utilizadas nas telas e na interface
+```
+
+---
+
+### 📄 Arquivo de Módulo
+
+```
+src/main/java/module-info.java   # Definição do módulo Java do projeto
+```
+
+---
+
+✅ Essa estrutura garante separação de responsabilidades, facilita manutenção e segue o padrão de organização recomendado para projetos em JavaFX.
 
 <span id="Manual"></span>
 
 # Manual do Usuário:
 
+<details>
+<summary><strong> BlueTech- Passo a Passo </strong></summary>
+  
 ## :wrench: Como Usar
+
 <h3>Para garantir o sucesso na utilização de nosso sistema, aqui vai uma lista das tecnologias necessárias para realizar os próximos passos:</h3>
 
-aqui ainda veremos o que será preciso e os passos
+## 🚀 Como Executar o Projeto Bluetech
+
+### 1. Clonar o Repositório
+
+```bash
+git clone https://github.com/seu-usuario/bluetech.git
+cd bluetech
+```
+
+---
+
+### 2. Abrir no IntelliJ IDEA
+
+1. Abra o IntelliJ IDEA.
+2. Vá em **File > Open...** e selecione a pasta do projeto **Bluetech**.
+3. Certifique-se de que o projeto está configurado com **Java 17+** (ou a versão utilizada no desenvolvimento).
+4. Verifique se o **JavaFX** está corretamente configurado nas dependências do projeto.
+
+---
+
+### 3. Executar as Telas
+
+1. Localize a classe principal `App.java` em:
+
+   ```
+   src/main/java/br/com/squadtech/bluetech/App.java
+   ```
+2. Clique com o botão direito em `App.java` e escolha **Run 'App.main()'**.
+
+---
+
+### 4. Saída Esperada
+
+A aplicação abrirá a **tela inicial do Bluetech** (JavaFX), permitindo a navegação entre as telas criadas no projeto.
+
+---
+
+💡 **Observação**:
+Neste momento, o projeto contém apenas as telas da aplicação (interfaces gráficas em JavaFX). As próximas etapas incluirão a integração com o backend e banco de dados.
+
+</details>
+
 
 → [Voltar ao topo](#topo)<br/>
+
+<span id="burndown">
+
+## Documentação 📜
+
+- <a href="">Modelagem de Dados</a>
+- <a href="">Protótipo de Telas</a>
+- <a href="">Banco de Dados</a>
+
+
+
+
+
+  
+
 
 
