@@ -9,7 +9,8 @@
 
 ## :mag_right: Índice
 
-[Equipe](#Equipe) / [Descrição do Projeto](#Descricao) /  [Backlog](#Backlog) / [Sobre a Sprint](#Sobre) / [Backlog da Sprint](#Sprint) / [Manual do Usuário](#Manual)
+[Equipe](#Equipe) / [Descrição do Projeto](#Descricao) /  [Backlog](#Backlog) / [Sobre a Sprint](#Sobre) / [Backlog da Sprint](#Sprint) / [Tecnologias](#Tecnologias) /[Estrutura](#Estrutura) / [Manual do Usuário](#Manual) /[Documentos](#Documentos)
+
 <span id="Equipe"></span>
 
 ## :busts_in_silhouette: Equipe
@@ -277,7 +278,7 @@ do banco de dados.
 
 </details>
 
-<span id="docs">
+<span id="Tecnologias"></span>
 
 → [Voltar ao topo](#topo)<br/>
 
@@ -311,6 +312,8 @@ do banco de dados.
 
 
 → [Voltar ao topo](#topo)<br/>
+
+<span id="Estrutura"></span>
 
 ## 📂 Estrutura do Projeto
 
@@ -359,6 +362,8 @@ src/main/java/module-info.java   # Definição do módulo Java do projeto
 ---
 
 ✅ Essa estrutura garante separação de responsabilidades, facilita manutenção e segue o padrão de organização recomendado para projetos em JavaFX.
+
+</details>
 
 <span id="Manual"></span>
 
@@ -416,16 +421,18 @@ Neste momento, o projeto contém apenas as telas da aplicação (interfaces grá
 
 → [Voltar ao topo](#topo)<br/>
 
-<span id="burndown">
+<span id="Documentos"> </span>
 
 ## Documentação 📜
 
-- <a href="">Modelagem de Dados</a>
-- <a href="">Protótipo de Telas</a>
-- <a href="">Banco de Dados</a>
+- <a href="https://github.com/SquadTech-API/API-2/blob/4d0b2baf2edc5fcb3e3e9270a1a290a5716c6f85/assets/images/MODELAGEM%20DE%20DADOS.png">Modelagem de Dados</a>
+- <a href="https://github.com/SquadTech-API/API-2/blob/4d0b2baf2edc5fcb3e3e9270a1a290a5716c6f85/assets/docs/docs%20Prodcut%20Owner/DoR.docx">Definition of Ready (DoR)</a>
+- <a href="https://github.com/SquadTech-API/API-2/blob/4d0b2baf2edc5fcb3e3e9270a1a290a5716c6f85/assets/docs/docs%20Prodcut%20Owner/DoR.docx">Definition of Done (DoD)</a>
+- <a href="https://github.com/SquadTech-API/API-2/blob/4d0b2baf2edc5fcb3e3e9270a1a290a5716c6f85/assets/docs/docs%20Scrum%20Master/PADR%C3%95ES%20DE%20COMMITS.docx">Padrão de Commit</a>
+- <a href="https://github.com/SquadTech-API/API-2/blob/4d0b2baf2edc5fcb3e3e9270a1a290a5716c6f85/assets/docs/docs%20Scrum%20Master/API-ESTRAT%C3%89GIA%20DE%20BRANCH%20REVISADA.docx">Estratégia de Branches</a>
 
 
-
+→ [Voltar ao topo](#topo)<br/>
 
 
   
